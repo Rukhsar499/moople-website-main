@@ -6,9 +6,9 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        $meta_title = 'Moople | Institute of Animation and Design';
+        $meta_title = 'Best Animation, VFX & Design Courses in Kolkata with AI | Moople';
         $meta_keyword = '';
-        $meta_description = 'Join Moople. One of the best Animation, VFX, Graphics, Web Design & Digital Marketing training Institute with 100% placement support, contact us.';
+        $meta_description = 'Since 2000, Moople has empowered 15,000+ students with industry-focused Animation, VFX, Design, Web & Digital Marketing courses with AI, placement & EMI';
   
 
         $data['meta_title'] = $meta_title;

@@ -8,13 +8,13 @@
                     <div class="splide__track">
                         <ul class="splide__list">
                             <li class="splide__slide relative h-[60vh] lg:h-[95vh]">
-                                <img class="lg:block bg-[#262626] block w-full h-full object-cover hidden" src="./assets/img/banner/3d-animation.webp" alt="" width="1920" height="832">
-                                <img class="lg:hidden block w-full h-auto" src="./assets/img/banner/3d-animation-mobile.webp" alt="" width="650" height="879">
+                                <img class="lg:block bg-[#262626] block w-full h-full object-cover hidden" src="./assets/img/banner/3d-animation.webp" alt="Students at Moople animation and design institute in Kolkata" width="1920" height="832">
+                                <img class="lg:hidden block w-full h-auto" src="./assets/img/banner/3d-animation-mobile.webp" alt="Students at Moople animation and design institute in Kolkata" width="650" height="879">
                                 <div class="absolute top-[50%] left-[7%] lg:left-[10%] translate-y-[-30%] text-con lg:bg-[transparent] bg-[#00000075] lg:p-[0] p-[20px] rounded-[8px]">
-                                    <p class="text-white text-[16px] lg:text-[30px] text-1">Your gateway to the world of Animation</p>
-                                    <h2 class="text-2 text-white text-[20px] lg:text-[50px] font-semibold lg:leading-[4rem] py-3"> From concept to creation,<br/> we teach it all</h2>
-                                    <p class="text-3 text-white pb-6 lg:block hidden">Transform your passion for animation into a rewarding career</p>
-                                    <a class="text-4 border border-[#fff] text-[#FFF] px-5 py-2 rounded-lg hover:bg-[#FFF] hover:text-[#000] transition-all duration-200 ease-out hover:ease-in" href="courses#animation-courses">Enroll now</a>
+                                    <p class="text-white text-[16px] lg:text-[30px] text-1">Moople Institute · Since 2000</p>
+                                    <h1 class="text-2 text-white text-[20px] lg:text-[50px] font-semibold lg:leading-[4rem] py-3"> Animation, VFX & Design Courses in  <br/>Kolkata – with AI and Placement Support,</h1>
+                                    <p class="text-3 text-white pb-6 lg:block hidden">Diplomas and Advanced Diplomas from 5 to 18 months, plus 4-year degrees · 15,000+ students trained · 19+ centres · Easy EMI</p>
+                                    <a class="text-4 border border-[#fff] text-[#FFF] px-5 py-2 rounded-lg hover:bg-[#FFF] hover:text-[#000] transition-all duration-200 ease-out hover:ease-in" href="courses#animation-courses">Book Free Counselling</a>
                                 </div>
                             </li>
                             <li class="splide__slide relative h-[60vh] lg:h-[95vh]">
