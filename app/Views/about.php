@@ -24,7 +24,7 @@
   <main id="reserve2" class="mt-[10rem] lg:mt-[8.3rem]">
     <section class="banner relative w-[95%] block ms-auto" id="our-organizaton">
         <img class="block ms-auto" src="./assets/img/aboutUs/about-bnr.webp" alt="" width="100%" height="100%">
-        <h1 class="text-white text-[25px] lg:text-[50px] font-semibold absolute top-[50%] left-4 lg:left-16" style="transform: translate(0,-50%);">About us</h1>
+        <h1 class="text-white text-[25px] lg:text-[50px] font-semibold absolute top-[50%] left-4 lg:left-16" style="transform: translate(0,-50%);">About Moople Institute</h1>
     </section>
     
     <section class="lg:pt-12 pt-6 pb-12">
@@ -32,15 +32,15 @@
             <div class="flex flex-wrap gap-y-5">
                 <div class="w-[100%] lg:w-[50%] px-3 order-2 lg:order-1">
                     <div class="pt-8 pb-4">
-                        <h2 class="text-[25px] lg:text-[50px] text-[#F08A31] font-semibold leading-[30px] lg:leading-[50px] cds2">Where Innovation Meets<br class="hidden lg:block"> Education</h2>
+                        <h2 class="text-[25px] lg:text-[50px] text-[#F08A31] font-semibold leading-[30px] lg:leading-[50px] cds2">Where Creativity Becomes  <br class="hidden lg:block">a Career</h2>
                     </div>
                     <div class="text-[#bcbcbc]">
                         <p class="mb-4">
-                            Moople is the pioneer in redefining the concept of multimedia education through its 21+ centres of excellence across India and rapidly growing. We provide certificate courses in 2D and 3D Animation, Graphics, Motion Graphics, Video Editing, UI/UX & Web Design, Visual Effects (VFX), and Game Art Design. Our state-of-the-art infrastructure sets the standard for excellence, empowering creativity and innovation in every student who becomes a part of our family. Our production house Hi-Tech Animation (one of the leading animation production studios in India) provides invaluable inputs in creating our industry relevant curriculum which has helped our students to get placed in the top companies across India.
+                            Since 2000, Moople Institute has helped more than 15,000 students turn creative talent into careers in animation, VFX, graphic design, UI/UX, web development, video editing and digital marketing. Today our certificate, diploma and Advanced Diploma courses are taught across 19+ centres in West Bengal and Assam.
+Our creative career courses with AI are built with input from our own animation production studio, so students learn the tools, workflows and standards the industry actually uses. With industry-experienced faculty, portfolio-first projects and dedicated placement support, Moople offers professional career courses that prepare students to work from day one.
                         </p>
                         <p class="mb-4">
-                            In partnership with esteemed colleges, Moople offers Degree Programs in Animation and VFX, emphasising skill-based learning throughout the curriculum to equip students for successful careers in the industry.
-                        </p>
+                            Moople also offers 4-year degree programmes with the Institute of Management Study (IMS), affiliated to MAKAUT, and with Behala College, a NAAC A++ autonomous college affiliated to the University of Calcutta – in animation, VFX, digital marketing, computer applications, cyber security and multimedia & web development.
                     </div>
                 </div>
                 <div class="w-[100%] lg:w-[50%] px-3 order-1 lg:order-2">

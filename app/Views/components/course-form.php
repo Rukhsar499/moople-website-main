@@ -101,10 +101,31 @@
                         <?php } ?>
 
                     </div>
+
+                   <div class="mb-4 flex justify-center">
+                  <label class="flex items-start gap-2 text-sm text-white cursor-pointer">
+                    <input
+                      type="checkbox"
+                      name="contact_consent"
+                      value="1"
+                      required
+                      class="mt-1 h-4 w-4 shrink-0 accent-[#F08A31]"
+                    >
+
+                    <span>
+                      I agree to be contacted by Moople on call and WhatsApp.
+                    </span>
+                  </label>
+                </div>
+                   
                     <div class="w-full px-2 flex justify-center scale-[.9] pb-3">
                         <div class="g-recaptcha" data-sitekey="6Lf9ePspAAAAALVVScUj3pDoYvTqyvwPF9nX2Acz" data-callback="verifyCaptcha"></div>
                         <div id="captcha-error3214animation1" class="text-center fw-bold mt-3" style="color: red;"></div>
                     </div>
+
+                      <!-- Contact Consent Checkbox -->
+                
+
                     <button
                         class="w-[250px] px-5 py-2 bg-gradient-to-r from-[#F08A31] to-[#B5341D] rounded-lg text-white hover:bg-gradient-to-r hover:from-[#B5341D] hover:to-[#F08A31] transition duration-500 ease flex justify-center gap-x-2 mx-auto"
                         type="submit">Get Free Counselling <img src="./assets/icons/send.png" alt="" width="18"

@@ -59,6 +59,23 @@
 
             <input type="hidden" name="redirect_from" value="<?php echo $page_name;?> centres page">
             <input type="hidden" name="location" value="<?php echo $page_name;?>">
+
+            <!-- Contact Consent Checkbox -->
+                <div class="mb-4">
+                  <label class="flex items-start gap-2 text-sm text-white cursor-pointer">
+                    <input
+                      type="checkbox"
+                      name="contact_consent"
+                      value="1"
+                      required
+                      class="mt-1 h-4 w-4 shrink-0 accent-[#F08A31]"
+                    >
+
+                    <span>
+                      I agree to be contacted by Moople on call and WhatsApp.
+                    </span>
+                  </label>
+                </div>
                 
             <button type="submit"
                 class="text-[#FFF] w-full px-5 py-2 rounded flex justify-center items-center gap-x-2 bg-gradient-to-r from-[#F08A31] to-[#B5341D]">Submit

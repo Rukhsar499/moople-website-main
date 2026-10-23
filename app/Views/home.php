@@ -314,8 +314,9 @@
             <div class="container mx-auto px-4">
                 <div>
                     <span class="bg-gradient-to-r from-[#F08A31] to-[#B5341D] text-[#FFF] px-4 py-1.5 rounded">Our Courses</span>
-                    <h1 class="text-[#FFF] text-[25px] lg:text-[35px] font-semibold mt-3">Course Offerings</h1>
-                    <p class="text-[#FFF]">Explore our industry relevant certificate and degree courses and start shaping your future today! Dive into our comprehensive programs in Animation,<br/> VFX, Web Design, Digital Marketing, Graphic Design to gain the skills you need to succeed! </p>
+                    <h2 class="text-[#FFF] text-[25px] lg:text-[35px] font-semibold mt-3">Career Courses with AI – Choose Your Path</h2>
+                    <p class="text-[#FFF]">Choose a short-term diploma to build job-ready skills quickly, or an Advanced Diploma for complete career preparation. <br>
+                    Every course combines AI tools, practical portfolio projects and placement support, with the option to upgrade your skills as you progress.</p>
                 </div>
                 <div class="flex flex-wrap lg:pt-12 pt-6">
                     <div class="w-[100%] md:w-[50%] lg:w-[33.33%] lg:p-8 p-6">
