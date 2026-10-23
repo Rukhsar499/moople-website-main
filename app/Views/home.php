@@ -97,6 +97,78 @@
                 </div>
             </div>
         </section>
+
+
+<section class=" py-12 px-4 sm:px-6 lg:px-8 text-white relative overflow-hidden">
+  
+  <div class="max-w-7xl mx-auto relative z-10">
+    <!-- Grid Layout: 2 cols on mobile, 3 on md, 5 on lg -->
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 lg:gap-6">
+      
+      <!-- Stat 1: Since 2000 -->
+      <div class="group relative  backdrop-blur-md rounded-2xl p-6 border border-orange-500/50 hover:border-orange-500/50 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_-10px_rgba(249,115,22,0.3)] flex flex-col items-center text-center">
+        <!-- Icon Container -->
+        <div class="w-12 h-12 rounded-xl bg-orange-500/10 border border-orange-500/20 flex items-center justify-center text-orange-500 mb-4 group-hover:scale-110 group-hover:bg-orange-500 group-hover:text-white transition-all duration-300">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+          </svg>
+        </div>
+        <span class="text-xs uppercase tracking-wider text-slate-400 font-semibold mb-1">Legacy</span>
+        <h3 class="text-2xl sm:text-3xl font-extrabold text-white group-hover:text-orange-400 transition-colors duration-300">2000</h3>
+        <p class="text-sm text-slate-400 mt-1 font-medium">Established</p>
+      </div>
+
+      <!-- Stat 2: Students Trained -->
+      <div class="group relative  backdrop-blur-md rounded-2xl p-6 border border-orange-500/50 hover:border-orange-500/50 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_-10px_rgba(249,115,22,0.3)] flex flex-col items-center text-center">
+        <div class="w-12 h-12 rounded-xl bg-orange-500/10 border border-orange-500/20 flex items-center justify-center text-orange-500 mb-4 group-hover:scale-110 group-hover:bg-orange-500 group-hover:text-white transition-all duration-300">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"/>
+          </svg>
+        </div>
+        <span class="text-xs uppercase tracking-wider text-slate-400 font-semibold mb-1">Alumni</span>
+        <h3 class="text-2xl sm:text-3xl font-extrabold text-white group-hover:text-orange-400 transition-colors duration-300">15,000+</h3>
+        <p class="text-sm text-slate-400 mt-1 font-medium">Students Trained</p>
+      </div>
+
+      <!-- Stat 3: Centres -->
+      <div class="group relative  backdrop-blur-md rounded-2xl p-6 border border-orange-500/50 hover:border-orange-500/50 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_-10px_rgba(249,115,22,0.3)] flex flex-col items-center text-center">
+        <div class="w-12 h-12 rounded-xl bg-orange-500/10 border border-orange-500/20 flex items-center justify-center text-orange-500 mb-4 group-hover:scale-110 group-hover:bg-orange-500 group-hover:text-white transition-all duration-300">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5m0 0h4m-4 0V11m0 0V8a2 2 0 012-2h2a2 2 0 012 2v3m-4 0h4"/>
+          </svg>
+        </div>
+        <span class="text-xs uppercase tracking-wider text-slate-400 font-semibold mb-1">Presence</span>
+        <h3 class="text-2xl sm:text-3xl font-extrabold text-white group-hover:text-orange-400 transition-colors duration-300">19+</h3>
+        <p class="text-sm text-slate-400 mt-1 font-medium">Centres Nationwide</p>
+      </div>
+
+      <!-- Stat 4: Hiring Companies -->
+      <div class="group relative  backdrop-blur-md rounded-2xl p-6 border border-orange-500/50 hover:border-orange-500/50 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_-10px_rgba(249,115,22,0.3)] flex flex-col items-center text-center">
+        <div class="w-12 h-12 rounded-xl bg-orange-500/10 border border-orange-500/20 flex items-center justify-center text-orange-500 mb-4 group-hover:scale-110 group-hover:bg-orange-500 group-hover:text-white transition-all duration-300">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+          </svg>
+        </div>
+        <span class="text-xs uppercase tracking-wider text-slate-400 font-semibold mb-1">Network</span>
+        <h3 class="text-2xl sm:text-3xl font-extrabold text-white group-hover:text-orange-400 transition-colors duration-300">300+</h3>
+        <p class="text-sm text-slate-400 mt-1 font-medium">Hiring Companies</p>
+      </div>
+
+      <!-- Stat 5: NFDC Affiliated (Centered on Mobile Grid using col-span-2 sm:col-span-1) -->
+      <div class="col-span-2 sm:col-span-1 md:col-span-1 lg:col-span-1 group relative  backdrop-blur-md rounded-2xl p-6 border border-orange-500/50 hover:border-orange-500/50 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_-10px_rgba(249,115,22,0.3)] flex flex-col items-center text-center max-w-sm sm:max-w-none mx-auto w-full">
+        <div class="w-12 h-12 rounded-xl bg-orange-500/10 border border-orange-500/20 flex items-center justify-center text-orange-500 mb-4 group-hover:scale-110 group-hover:bg-orange-500 group-hover:text-white transition-all duration-300">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"/>
+          </svg>
+        </div>
+        <span class="text-xs uppercase tracking-wider text-slate-400 font-semibold mb-1">Recognition</span>
+        <h3 class="text-xl sm:text-2xl font-extrabold text-white group-hover:text-orange-400 transition-colors duration-300">NFDC</h3>
+        <p class="text-sm text-slate-400 mt-1 font-medium">Affiliated Training Partner</p>
+      </div>
+
+    </div>
+  </div>
+</section>
         <section class="bg-[#000] pt-12 pb-5">
             <div class="container mx-auto px-4">
                 <div>
@@ -104,13 +176,16 @@
                 </div>
                 <div class="-mt-4 lg:-mt-12">
                     <div>
-                        <p class="text-[16px] lg:text-[36px] font-[500] text-center text-white">BIG Impact  <span
+                        <p class="text-[16px] lg:text-[34px] font-[500] text-center text-white">Women Leader as Change Maker for Viksit Bharat 2047 –   <span
+                            class="text-[#F08A31]">Women Leadership Programme 2026</span></p>
+
+                        <p class="text-[16px] lg:text-[30px] font-[500] text-center text-white">BIG Impact  <span
                             class="text-[#F08A31]">Awards 2025</span> - BIG FM</p>
-                        <p class="text-[14px] lg:text-[32px] font-[500] text-center text-white">Best <span
+                        <p class="text-[14px] lg:text-[28px] font-[500] text-center text-white">Best <span
                             class="text-[#F08A31]">Institute of Placement in AVGC</span> - ASSOCHAM 2023</p>
-                    <p class="text-[14px] lg:text-[26px] font-[500] text-center text-white">Excellent <span
+                    <p class="text-[14px] lg:text-[24px] font-[500] text-center text-white">Excellent <span
                             class="text-[#F08A31]">Institute in Animation & Design</span> - ADORCOMM 2022</p>
-                    <p class="text-[12px] lg:text-[22px] font-[500] text-center text-white">Best <span
+                    <p class="text-[12px] lg:text-[20px] font-[500] text-center text-white">Best <span
                             class="text-[#F08A31]">Institute of Animation & Design</span> - ASSOCHAM 2021</p>
                     </div>
                 </div>

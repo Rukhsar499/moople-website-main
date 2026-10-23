@@ -14,6 +14,17 @@
                 <div class="w-full lg:w-[33.33%] px-2">
                     <div>
                         <div>
+                            <img class="rounded-t-lg rounded-br-lg" src="./assets/img/awards/women-chnagemaker.webp" alt="" width="100%" height="100%">
+                        </div>
+                        <div class="bg-[#242424] w-[90%] rounded-b-lg pt-3 pb-5 px-5">
+                            <h2 class="text-[#F08A31] text-[22px] font-semibold mb-2">Women Leadership Programme 2026</h2>
+                            <p class="text-[#FFF]">Director Ms. Payal Chopra named “Women Leader as Change Maker for Viksit Bharat 2047” (2026).</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-full lg:w-[33.33%] px-2">
+                    <div>
+                        <div>
                             <section class="splide" id="awads" aria-label="Splide Basic HTML Example">
                           <div class="splide__track">
                         		<ul class="splide__list">

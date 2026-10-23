@@ -124,7 +124,8 @@ src="https://www.facebook.com/tr?id=2897931123736863&ev=PageView&noscript=1"
                 <div class="flex justify-between items-center">
                     <div>
                         <a href="/">
-                            <img src="./assets/img/brand-logo/moople-brand-logo.webp" alt="moople brand logo" width="120"
+                            <img  src="<?= base_url('./assets/img/brand-logo/moople-brand-logo.webp') ?>"
+                             alt="Moople Logo" width="120"
                                 height="100%">
                         </a>
                     </div>
