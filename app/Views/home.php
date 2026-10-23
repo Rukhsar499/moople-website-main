@@ -38,25 +38,26 @@
                                 </div>
                             </li>
                             <li class="splide__slide relative h-[60vh] lg:h-[95vh]">
-                                <img class="lg:block bg-[#262626] block w-full h-full object-cover hidden" src="./assets/img/banner/digitalmarketing.webp" alt="" width="1920" height="832">
-                                <img class="lg:hidden block w-full h-auto" loading="lazy" src="./assets/img/banner/digital-marketing-mobile.webp" alt="" width="650" height="879">
+                                <img class="lg:block bg-[#262626] block w-full h-full object-cover hidden" src="./assets/img/banner/3d-animations.webp" alt="" width="1920" height="832">
+                                <img class="lg:hidden block w-full h-auto" loading="lazy" src="./assets/img/banner/3d-animations-mobile.webp" alt="" width="650" height="879">
                                  <div class="absolute top-[50%] lg:left-[7%] left-[10%] lg:bg-[transparent] bg-[#00000075] lg:p-[0] p-[20px] rounded-[8px] translate-y-[-30%] text-con">
-                                    <p class="text-white text-[16px] lg:text-[30px] text-1">VFX · Motion Graphics · Video Editing</p>
-                                    <p class="text-2 text-white text-[20px] lg:text-[50px] font-semibold lg:leading-[4rem] py-3"> Get Studio-Ready for a VFX Career</p>
-                                    <p class="text-3 text-white pb-6 lg:block hidden">Roto, paint, compositing, editing and motion graphics – from 8 to 18 months.</p>
-                                    <a class="text-4 border border-[#fff] text-[#FFF] px-5 py-2 rounded-lg hover:bg-[#FFF] hover:text-[#000] transition-all duration-200 ease-out hover:ease-in" href="courses#digital-marketing-course">Explore VFX & Video Courses</a>
+                                    <p class="text-white text-[16px] lg:text-[30px] text-1">3D · Animation · Game Design</p>
+                                    <h2 class="text-2 text-white text-[20px] lg:text-[50px] font-semibold lg:leading-[4rem] py-3"> Bring Your Characters to Life in 3D Animation</h2>
+                                    <p class="text-3 text-white pb-6 lg:block hidden">Maya, Blender, Unreal Engine and AI – from 7 to 18 months.</p>
+                                    <a class="text-4 border border-[#fff] text-[#FFF] px-5 py-2 rounded-lg hover:bg-[#FFF] hover:text-[#000] transition-all duration-200 ease-out hover:ease-in" href="courses#web-design-course">Explore Animation Courses</a>
                                 </div>
                             </li>
                             <li class="splide__slide relative h-[60vh] lg:h-[95vh]">
-                                <img class="lg:block bg-[#262626] block w-full h-full object-cover hidden" src="./assets/img/banner/web.webp" alt="" width="1920" height="832">
-                                <img class="lg:hidden block w-full h-auto" loading="lazy" src="./assets/img/banner/web-mobile.webp" alt="" width="650" height="879">
+                                <img class="lg:block bg-[#262626] block w-full h-full object-cover hidden" src="./assets/img/banner/digitalmarketing.webp" alt="" width="1920" height="832">
+                                <img class="lg:hidden block w-full h-auto" loading="lazy" src="./assets/img/banner/digital-marketing-mobile.webp" alt="" width="650" height="879">
                                  <div class="absolute top-[50%] lg:left-[7%] left-[10%] lg:bg-[transparent] bg-[#00000075] lg:p-[0] p-[20px] rounded-[8px] translate-y-[-30%] text-con">
-                                    <p class="text-white text-[16px] lg:text-[30px] text-1">Master the art of Web Design</p>
-                                    <h2 class="text-2 text-white text-[20px] lg:text-[50px] font-semibold lg:leading-[4rem] py-3"> Build the skills today <br> to design tomorrow's web</h2>
-                                    <p class="text-3 text-white pb-6 lg:block hidden">Become a web design expert and shape the digital world</p>
-                                    <a class="text-4 border border-[#fff] text-[#FFF] px-5 py-2 rounded-lg hover:bg-[#FFF] hover:text-[#000] transition-all duration-200 ease-out hover:ease-in" href="courses#web-design-course">Enroll now</a>
+                                    <p class="text-white text-[16px] lg:text-[30px] text-1">Web Development · Digital Marketing</p>
+                                    <p class="text-2 text-white text-[20px] lg:text-[50px] font-semibold lg:leading-[4rem] py-3"> Skills Every Business Is Hiring For</p>
+                                    <p class="text-3 text-white pb-6 lg:block hidden">Build websites with React & WordPress or run SEO & ad campaigns – with AI.</p>
+                                    <a class="text-4 border border-[#fff] text-[#FFF] px-5 py-2 rounded-lg hover:bg-[#FFF] hover:text-[#000] transition-all duration-200 ease-out hover:ease-in" href="courses#digital-marketing-course">Explore Web & Marketing Courses</a>
                                 </div>
                             </li>
+                            
                            
                         </ul>
                     </div>
